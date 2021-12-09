@@ -1,5 +1,37 @@
 #Autor: Adilson Santos
-#Data de criação: 06/12/2021
-#Data de atualização: 06/12/2021
+#Data de criação: 09/12/2021
+#Data de atualização: 09/12/2021
 Redes Social: https://www.linkedin.com/in/adilson-santos-263070226/
 #Versão: 0.01
+====================================================================
+Criando imagem para um servidor local.
+
+Colocar o pendrive
+Ligar o Macmini com a tecla command precionada
+Clicar na primeira opção do Clonizilla e aguardar alguns segundos
+Escolher a linguagem Portugues Brasil
+Keep Manter layout de teclado padrão - lagout US
+Start_Clonizilla Iniciar Clonizilla
+Trabalhar com disco/partição usando imagem
+Usar servidor SSH
+Use wired network device
+Usar transmissão DHCP
+Colocar o IP do servidor
+colocar a porta
+Clicar ok
+Clicar ok
+Inserir a senha do servidor
+Escrever yes
+Senha
+Precione a tecla Enter
+Modo iniciante: Aceitar as opções padrões
+Salvar_disco_local_como_imagem
+Digite um nome para a imagem salva
+Escolha o disco local de origem
+Usar compressão gzip paralela, para multicore/CPU
+Ignorar verificação/correção de sistema de arquivos de origem
+Sim verificar a imagem salva
+Não criptografar a imagem
+Escolha para Reiniciar (ou a opção que desejar)
+Clica em continuar
+Aguardar acabar o processo
